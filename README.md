@@ -28,6 +28,6 @@ print(my_list[4])  # This will raise an IndexError since there is no index 4 in 
 ```
 ## references
 
-- https://docs.github.com/en
+- [Github flavored markdown spec](https://docs.github.com/en)
 - https://docs.github.com/en/rest?apiVersion=2022-11-28
 
