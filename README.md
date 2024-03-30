@@ -21,3 +21,8 @@ def factorial(n):
 num = 5
 print("Factorial of", num, "is", factorial(num))
 ```
+```bash
+# Attempting to access an index out of range in a list
+my_list = [1, 2, 3]
+print(my_list[4])  # This will raise an IndexError since there is no index 4 in the list
+```
